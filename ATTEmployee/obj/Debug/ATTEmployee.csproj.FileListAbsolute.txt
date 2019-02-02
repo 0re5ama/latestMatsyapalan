@@ -1,0 +1,5 @@
+G:\matsyapalanbackup\14-1-2019\ATTEmployee\bin\Debug\ATTEmployee.dll
+G:\matsyapalanbackup\14-1-2019\ATTEmployee\bin\Debug\ATTEmployee.pdb
+G:\matsyapalanbackup\14-1-2019\ATTEmployee\obj\Debug\ATTEmployee.csprojResolveAssemblyReference.cache
+G:\matsyapalanbackup\14-1-2019\ATTEmployee\obj\Debug\ATTEmployee.dll
+G:\matsyapalanbackup\14-1-2019\ATTEmployee\obj\Debug\ATTEmployee.pdb

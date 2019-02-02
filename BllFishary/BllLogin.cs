@@ -24,5 +24,52 @@ namespace BllFishary
             }
 
         }
+
+        public string SaveUser(List<LoginAtt> obj, string role)
+        {
+            try
+            {
+                LoginDll dllparameter = new LoginDll();
+                return dllparameter.SaveUser(obj, role);
+
+            }
+            catch (Exception ex)
+            {
+                throw (ex);
+            }
+
+        }
+
+        public List<LoginAtt> GetUser()
+        {
+            try
+            {
+                LoginDll dllparameter = new LoginDll();
+                return dllparameter.GetUser();
+
+            }
+            catch (Exception ex)
+            {
+                throw (ex);
+            }
+
+        }
+
+        public string DeleteUser(string useID)
+        {
+            try
+            {
+                LoginDll dllparameter = new LoginDll();
+                return dllparameter.DeleteUser(useID);
+
+            }
+            catch (Exception ex)
+            {
+                throw (ex);
+            }
+
+        }
     }
+
+
 }

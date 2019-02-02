@@ -1,0 +1,9 @@
+G:\matsyapalanbackup\14-1-2019\DLEmployee\bin\Debug\DLEmployee.dll
+G:\matsyapalanbackup\14-1-2019\DLEmployee\bin\Debug\DLEmployee.pdb
+G:\matsyapalanbackup\14-1-2019\DLEmployee\bin\Debug\ATTEmployee.dll
+G:\matsyapalanbackup\14-1-2019\DLEmployee\bin\Debug\MajorConn.dll
+G:\matsyapalanbackup\14-1-2019\DLEmployee\bin\Debug\ATTEmployee.pdb
+G:\matsyapalanbackup\14-1-2019\DLEmployee\bin\Debug\MajorConn.pdb
+G:\matsyapalanbackup\14-1-2019\DLEmployee\obj\Debug\DLEmployee.csprojResolveAssemblyReference.cache
+G:\matsyapalanbackup\14-1-2019\DLEmployee\obj\Debug\DLEmployee.dll
+G:\matsyapalanbackup\14-1-2019\DLEmployee\obj\Debug\DLEmployee.pdb

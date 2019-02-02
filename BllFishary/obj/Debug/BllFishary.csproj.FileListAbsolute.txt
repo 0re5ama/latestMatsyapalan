@@ -18,9 +18,6 @@ G:\Matshyapalan\BllFishary\bin\Debug\MajorConn.pdb
 G:\Matshyapalan\BllFishary\obj\Debug\BllFishary.csprojResolveAssemblyReference.cache
 G:\Matshyapalan\BllFishary\obj\Debug\BllFishary.dll
 G:\Matshyapalan\BllFishary\obj\Debug\BllFishary.pdb
-G:\matsyapalanbackup\14-1-2019\BllFishary\obj\Debug\BllFishary.csprojResolveAssemblyReference.cache
-G:\matsyapalanbackup\14-1-2019\BllFishary\obj\Debug\BllFishary.dll
-G:\matsyapalanbackup\14-1-2019\BllFishary\obj\Debug\BllFishary.pdb
 G:\matsyapalanbackup\14-1-2019\BllFishary\bin\Debug\BllFishary.dll
 G:\matsyapalanbackup\14-1-2019\BllFishary\bin\Debug\BllFishary.pdb
 G:\matsyapalanbackup\14-1-2019\BllFishary\bin\Debug\AttFishary.dll
@@ -29,3 +26,6 @@ G:\matsyapalanbackup\14-1-2019\BllFishary\bin\Debug\MajorConn.dll
 G:\matsyapalanbackup\14-1-2019\BllFishary\bin\Debug\AttFishary.pdb
 G:\matsyapalanbackup\14-1-2019\BllFishary\bin\Debug\DllFishary.pdb
 G:\matsyapalanbackup\14-1-2019\BllFishary\bin\Debug\MajorConn.pdb
+G:\matsyapalanbackup\14-1-2019\BllFishary\obj\Debug\BllFishary.csprojResolveAssemblyReference.cache
+G:\matsyapalanbackup\14-1-2019\BllFishary\obj\Debug\BllFishary.dll
+G:\matsyapalanbackup\14-1-2019\BllFishary\obj\Debug\BllFishary.pdb
